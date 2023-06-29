@@ -18,6 +18,4 @@ public class SortArrayDemo {
             System.out.println(a[i]);
         }
     }
-
-
 }
