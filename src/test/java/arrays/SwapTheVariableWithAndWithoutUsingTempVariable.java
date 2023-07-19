@@ -21,6 +21,8 @@ public class SwapTheVariableWithAndWithoutUsingTempVariable {
         a = a + b; //a = 9
         b = a - b; //b = 5
         a = a - b; //a = 4
+        System.out.println(a);
+        System.out.println(b);
 
     }
 }
