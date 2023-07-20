@@ -1,5 +1,3 @@
-package arrays;
-
 public class SwapTheVariableWithAndWithoutUsingTempVariable {
 
     public static void main(String[] args) {

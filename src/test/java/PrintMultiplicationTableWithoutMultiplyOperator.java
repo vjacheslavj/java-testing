@@ -1,5 +1,3 @@
-package arrays;
-
 public class PrintMultiplicationTableWithoutMultiplyOperator {
     public static void main(String[] args) {
 
