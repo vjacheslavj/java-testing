@@ -4,7 +4,7 @@ public class PrimeNumber {
         //11%i=0
 
         boolean flag = false;
-        int val = 7;
+        int val = 4;
 
         for (int i=2; i * i < val; i++) {
             if(val%i == 0) {
